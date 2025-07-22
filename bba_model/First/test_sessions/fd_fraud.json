@@ -1,0 +1,258 @@
+{
+  "session": {
+    "start": "2025-07-20T12:26:56.313241",
+    "end": "2025-07-20T12:27:32.971404",
+    "duration_seconds": 36
+  },
+  "device": {
+    "platform": "Android",
+    "brand": "google",
+    "model": "sdk_gphone64_x86_64",
+    "manufacturer": "Google",
+    "version": "16",
+    "sdk_int": 36
+  },
+  "location": {
+    "latitude": 37.4219983,
+    "longitude": -122.084
+  },
+  "tap_durations_ms": [
+    947,
+    1083,
+    2012,
+    8710,
+    1464,
+    1240,
+    1150,
+    3404,
+    3607,
+    9833
+  ],
+  "tap_events": [
+    {
+      "timestamp": "2025-07-20T12:26:58.073375",
+      "screen": "HomePage"
+    },
+    {
+      "timestamp": "2025-07-20T12:26:59.020991",
+      "screen": "HomePage"
+    },
+    {
+      "timestamp": "2025-07-20T12:27:00.104362",
+      "screen": "HomePage"
+    },
+    {
+      "timestamp": "2025-07-20T12:27:02.116648",
+      "screen": "ManageDepositsPage"
+    },
+    {
+      "timestamp": "2025-07-20T12:27:10.827328",
+      "screen": "HomePage"
+    },
+    {
+      "timestamp": "2025-07-20T12:27:12.292210",
+      "screen": "HomePage"
+    },
+    {
+      "timestamp": "2025-07-20T12:27:13.533198",
+      "screen": "TransferTypePage"
+    },
+    {
+      "timestamp": "2025-07-20T12:27:14.684102",
+      "screen": "WithinBankTransferPage"
+    },
+    {
+      "timestamp": "2025-07-20T12:27:18.088391",
+      "screen": "WithinBankTransferPage"
+    },
+    {
+      "timestamp": "2025-07-20T12:27:21.695693",
+      "screen": "WithinBankTransferPage"
+    },
+    {
+      "timestamp": "2025-07-20T12:27:31.529204",
+      "screen": "HomePage"
+    }
+  ],
+  "swipe_events": [
+    {
+      "timestamp": "2025-07-20T12:26:58.272873",
+      "duration_ms": 0,
+      "distance_px": 360.3343098958333,
+      "speed_px_per_ms": 360.3343098958333
+    },
+    {
+      "timestamp": "2025-07-20T12:26:59.177076",
+      "duration_ms": 0,
+      "distance_px": 327.6761067708333,
+      "speed_px_per_ms": 327.6761067708333
+    },
+    {
+      "timestamp": "2025-07-20T12:27:11.081471",
+      "duration_ms": 0,
+      "distance_px": 208.67057291666663,
+      "speed_px_per_ms": 208.67057291666663
+    }
+  ],
+  "screens_visited": [
+    {
+      "screen": "HomePage",
+      "timestamp": "2025-07-20T12:26:56.314061",
+      "tap_events": [
+        {
+          "timestamp": "2025-07-20T12:26:58.073375",
+          "screen": "HomePage"
+        },
+        {
+          "timestamp": "2025-07-20T12:26:59.020991",
+          "screen": "HomePage"
+        },
+        {
+          "timestamp": "2025-07-20T12:27:00.104362",
+          "screen": "HomePage"
+        },
+        {
+          "timestamp": "2025-07-20T12:27:10.827328",
+          "screen": "HomePage"
+        },
+        {
+          "timestamp": "2025-07-20T12:27:12.292210",
+          "screen": "HomePage"
+        }
+      ],
+      "swipe_events": [
+        {
+          "timestamp": "2025-07-20T12:26:58.272873",
+          "duration_ms": 0,
+          "distance_px": 360.3343098958333,
+          "speed_px_per_ms": 360.3343098958333
+        },
+        {
+          "timestamp": "2025-07-20T12:26:59.177076",
+          "duration_ms": 0,
+          "distance_px": 327.6761067708333,
+          "speed_px_per_ms": 327.6761067708333
+        },
+        {
+          "timestamp": "2025-07-20T12:27:11.081471",
+          "duration_ms": 0,
+          "distance_px": 208.67057291666663,
+          "speed_px_per_ms": 208.67057291666663
+        }
+      ]
+    },
+    {
+      "screen": "ManageDepositsPage",
+      "timestamp": "2025-07-20T12:27:00.346620",
+      "tap_events": [
+        {
+          "timestamp": "2025-07-20T12:27:02.116648",
+          "screen": "ManageDepositsPage"
+        }
+      ],
+      "swipe_events": [
+        {
+          "timestamp": "2025-07-20T12:26:58.272873",
+          "duration_ms": 0,
+          "distance_px": 360.3343098958333,
+          "speed_px_per_ms": 360.3343098958333
+        },
+        {
+          "timestamp": "2025-07-20T12:26:59.177076",
+          "duration_ms": 0,
+          "distance_px": 327.6761067708333,
+          "speed_px_per_ms": 327.6761067708333
+        },
+        {
+          "timestamp": "2025-07-20T12:27:11.081471",
+          "duration_ms": 0,
+          "distance_px": 208.67057291666663,
+          "speed_px_per_ms": 208.67057291666663
+        }
+      ]
+    },
+    {
+      "screen": "TransferTypePage",
+      "timestamp": "2025-07-20T12:27:12.516131",
+      "tap_events": [
+        {
+          "timestamp": "2025-07-20T12:27:13.533198",
+          "screen": "TransferTypePage"
+        }
+      ],
+      "swipe_events": [
+        {
+          "timestamp": "2025-07-20T12:26:58.272873",
+          "duration_ms": 0,
+          "distance_px": 360.3343098958333,
+          "speed_px_per_ms": 360.3343098958333
+        },
+        {
+          "timestamp": "2025-07-20T12:26:59.177076",
+          "duration_ms": 0,
+          "distance_px": 327.6761067708333,
+          "speed_px_per_ms": 327.6761067708333
+        },
+        {
+          "timestamp": "2025-07-20T12:27:11.081471",
+          "duration_ms": 0,
+          "distance_px": 208.67057291666663,
+          "speed_px_per_ms": 208.67057291666663
+        }
+      ]
+    },
+    {
+      "screen": "WithinBankTransferPage",
+      "timestamp": "2025-07-20T12:27:13.764594",
+      "tap_events": [
+        {
+          "timestamp": "2025-07-20T12:27:14.684102",
+          "screen": "WithinBankTransferPage"
+        },
+        {
+          "timestamp": "2025-07-20T12:27:18.088391",
+          "screen": "WithinBankTransferPage"
+        },
+        {
+          "timestamp": "2025-07-20T12:27:21.695693",
+          "screen": "WithinBankTransferPage"
+        }
+      ],
+      "swipe_events": [
+        {
+          "timestamp": "2025-07-20T12:26:58.272873",
+          "duration_ms": 0,
+          "distance_px": 360.3343098958333,
+          "speed_px_per_ms": 360.3343098958333
+        },
+        {
+          "timestamp": "2025-07-20T12:26:59.177076",
+          "duration_ms": 0,
+          "distance_px": 327.6761067708333,
+          "speed_px_per_ms": 327.6761067708333
+        },
+        {
+          "timestamp": "2025-07-20T12:27:11.081471",
+          "duration_ms": 0,
+          "distance_px": 208.67057291666663,
+          "speed_px_per_ms": 208.67057291666663
+        }
+      ]
+    }
+  ],
+  "screen_durations": {
+    "ManageDepositsPage": 8,
+    "WithinBankTransferPage": 16,
+    "TransferTypePage": 17
+  },
+  "screen_recording_detected": false,
+  "session_input": {
+    "transaction_amount": "10000",
+    "fd_broken": true,
+    "loan_taken": false,
+    "time_from_login_to_fd": 12,
+    "time_from_login_to_loan": null,
+    "time_between_fd_and_loan": null
+  },
+  "trust_score": 100
+}
