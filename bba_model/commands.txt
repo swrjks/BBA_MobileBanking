@@ -1,0 +1,8 @@
+Virtual Environment:
+
+python -m venv bba
+.\bba\Scripts\activate
+
+pip install numpy pandas scikit-learn tensorflow matplotlib
+pip install scikit-learn
+

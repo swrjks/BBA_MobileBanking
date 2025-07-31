@@ -1,0 +1,552 @@
+{
+  "session": {
+    "start": "2025-07-29T09:17:59.110821",
+    "end": "2025-07-29T09:18:30.825877",
+    "duration_seconds": 31
+  },
+  "device": {
+    "platform": "Android",
+    "brand": "samsung",
+    "model": "SM-G781B",
+    "manufacturer": "samsung",
+    "version": "13",
+    "sdk_int": 33
+  },
+  "location": "Location unavailable",
+  "tap_durations_ms": [
+    538.0,
+    753.0,
+    5111.0,
+    102.0,
+    5354.0,
+    345.0,
+    851.0,
+    1044.0,
+    666.0,
+    2583.0,
+    6737.0,
+    5322.0,
+    101.0
+  ],
+  "tap_events": [
+    {
+      "timestamp": "2025-07-29T09:18:01.300812",
+      "screen": "HomePage",
+      "position": {
+        "dx": 292.03125,
+        "dy": 664.1666666666666
+      },
+      "zone": "bottom_right"
+    },
+    {
+      "timestamp": "2025-07-29T09:18:01.839534",
+      "screen": "HomePage",
+      "position": {
+        "dx": 309.09375,
+        "dy": 500.0
+      },
+      "zone": "middle_right"
+    },
+    {
+      "timestamp": "2025-07-29T09:18:02.593272",
+      "screen": "HomePage",
+      "position": {
+        "dx": 251.53125,
+        "dy": 680.8333333333334
+      },
+      "zone": "bottom_center"
+    },
+    {
+      "timestamp": "2025-07-29T09:18:07.705182",
+      "screen": "ManageDepositsPage",
+      "position": {
+        "dx": 290.15625,
+        "dy": 620.625
+      },
+      "zone": "bottom_right"
+    },
+    {
+      "timestamp": "2025-07-29T09:18:13.162193",
+      "screen": "HomePage",
+      "position": {
+        "dx": 313.125,
+        "dy": 474.375
+      },
+      "zone": "middle_right"
+    },
+    {
+      "timestamp": "2025-07-29T09:18:13.507303",
+      "screen": "HomePage",
+      "position": {
+        "dx": 263.25,
+        "dy": 569.7916666666666
+      },
+      "zone": "bottom_right"
+    },
+    {
+      "timestamp": "2025-07-29T09:18:14.358887",
+      "screen": "HomePage",
+      "position": {
+        "dx": 55.03125,
+        "dy": 463.125
+      },
+      "zone": "middle_left"
+    },
+    {
+      "timestamp": "2025-07-29T09:18:15.403266",
+      "screen": "TransferTypePage",
+      "position": {
+        "dx": 128.625,
+        "dy": 129.16666666666666
+      },
+      "zone": "top_center"
+    },
+    {
+      "timestamp": "2025-07-29T09:18:16.069457",
+      "screen": "WithinBankTransferPage",
+      "position": {
+        "dx": 69.28125,
+        "dy": 124.79166666666667
+      },
+      "zone": "top_left"
+    },
+    {
+      "timestamp": "2025-07-29T09:18:18.653065",
+      "screen": "WithinBankTransferPage",
+      "position": {
+        "dx": 60.1875,
+        "dy": 195.0
+      },
+      "zone": "top_left"
+    },
+    {
+      "timestamp": "2025-07-29T09:18:25.390506",
+      "screen": "WithinBankTransferPage",
+      "position": {
+        "dx": 290.8125,
+        "dy": 360.8333333333333
+      },
+      "zone": "middle_right"
+    },
+    {
+      "timestamp": "2025-07-29T09:18:30.712812",
+      "screen": "HomePage",
+      "position": {
+        "dx": 348.1875,
+        "dy": 62.291666666666664
+      },
+      "zone": "top_right"
+    }
+  ],
+  "swipe_events": [
+    {
+      "timestamp": "2025-07-29T09:18:01.380222",
+      "screen": "HomePage",
+      "duration_ms": 79,
+      "distance_px": 165.2758377351707,
+      "speed_px_per_ms": 2.092099211837604
+    },
+    {
+      "timestamp": "2025-07-29T09:18:01.380365",
+      "duration_ms": 79,
+      "distance_px": 22.40625,
+      "speed_px_per_ms": 0.283623417721519
+    },
+    {
+      "timestamp": "2025-07-29T09:18:02.505791",
+      "screen": "HomePage",
+      "duration_ms": 666,
+      "distance_px": 168.63914182730534,
+      "speed_px_per_ms": 0.25321192466562364
+    },
+    {
+      "timestamp": "2025-07-29T09:18:02.505925",
+      "duration_ms": 666,
+      "distance_px": 40.3125,
+      "speed_px_per_ms": 0.06052927927927928
+    },
+    {
+      "timestamp": "2025-07-29T09:18:13.256299",
+      "screen": "HomePage",
+      "duration_ms": 94,
+      "distance_px": 139.91888150917225,
+      "speed_px_per_ms": 1.4884987394592792
+    },
+    {
+      "timestamp": "2025-07-29T09:18:13.256431",
+      "duration_ms": 94,
+      "distance_px": 36.0,
+      "speed_px_per_ms": 0.3829787234042553
+    },
+    {
+      "timestamp": "2025-07-29T09:18:13.939993",
+      "screen": "HomePage",
+      "duration_ms": 432,
+      "distance_px": 90.09290693134662,
+      "speed_px_per_ms": 0.20854839567441347
+    },
+    {
+      "timestamp": "2025-07-29T09:18:13.940091",
+      "duration_ms": 432,
+      "distance_px": 17.71875,
+      "speed_px_per_ms": 0.041015625
+    }
+  ],
+  "screens_visited": [
+    {
+      "screen": "HomePage",
+      "timestamp": "2025-07-29T09:17:59.111369",
+      "tap_events": [
+        {
+          "timestamp": "2025-07-29T09:18:01.300812",
+          "screen": "HomePage",
+          "position": {
+            "dx": 292.03125,
+            "dy": 664.1666666666666
+          },
+          "zone": "bottom_right"
+        },
+        {
+          "timestamp": "2025-07-29T09:18:01.839534",
+          "screen": "HomePage",
+          "position": {
+            "dx": 309.09375,
+            "dy": 500.0
+          },
+          "zone": "middle_right"
+        },
+        {
+          "timestamp": "2025-07-29T09:18:02.593272",
+          "screen": "HomePage",
+          "position": {
+            "dx": 251.53125,
+            "dy": 680.8333333333334
+          },
+          "zone": "bottom_center"
+        },
+        {
+          "timestamp": "2025-07-29T09:18:13.162193",
+          "screen": "HomePage",
+          "position": {
+            "dx": 313.125,
+            "dy": 474.375
+          },
+          "zone": "middle_right"
+        },
+        {
+          "timestamp": "2025-07-29T09:18:13.507303",
+          "screen": "HomePage",
+          "position": {
+            "dx": 263.25,
+            "dy": 569.7916666666666
+          },
+          "zone": "bottom_right"
+        },
+        {
+          "timestamp": "2025-07-29T09:18:14.358887",
+          "screen": "HomePage",
+          "position": {
+            "dx": 55.03125,
+            "dy": 463.125
+          },
+          "zone": "middle_left"
+        }
+      ],
+      "swipe_events": [
+        {
+          "timestamp": "2025-07-29T09:18:01.380222",
+          "screen": "HomePage",
+          "duration_ms": 79,
+          "distance_px": 165.2758377351707,
+          "speed_px_per_ms": 2.092099211837604
+        },
+        {
+          "timestamp": "2025-07-29T09:18:01.380365",
+          "duration_ms": 79,
+          "distance_px": 22.40625,
+          "speed_px_per_ms": 0.283623417721519
+        },
+        {
+          "timestamp": "2025-07-29T09:18:02.505791",
+          "screen": "HomePage",
+          "duration_ms": 666,
+          "distance_px": 168.63914182730534,
+          "speed_px_per_ms": 0.25321192466562364
+        },
+        {
+          "timestamp": "2025-07-29T09:18:02.505925",
+          "duration_ms": 666,
+          "distance_px": 40.3125,
+          "speed_px_per_ms": 0.06052927927927928
+        },
+        {
+          "timestamp": "2025-07-29T09:18:13.256299",
+          "screen": "HomePage",
+          "duration_ms": 94,
+          "distance_px": 139.91888150917225,
+          "speed_px_per_ms": 1.4884987394592792
+        },
+        {
+          "timestamp": "2025-07-29T09:18:13.256431",
+          "duration_ms": 94,
+          "distance_px": 36.0,
+          "speed_px_per_ms": 0.3829787234042553
+        },
+        {
+          "timestamp": "2025-07-29T09:18:13.939993",
+          "screen": "HomePage",
+          "duration_ms": 432,
+          "distance_px": 90.09290693134662,
+          "speed_px_per_ms": 0.20854839567441347
+        },
+        {
+          "timestamp": "2025-07-29T09:18:13.940091",
+          "duration_ms": 432,
+          "distance_px": 17.71875,
+          "speed_px_per_ms": 0.041015625
+        }
+      ]
+    },
+    {
+      "screen": "ManageDepositsPage",
+      "timestamp": "2025-07-29T09:18:02.645056",
+      "tap_events": [
+        {
+          "timestamp": "2025-07-29T09:18:07.705182",
+          "screen": "ManageDepositsPage",
+          "position": {
+            "dx": 290.15625,
+            "dy": 620.625
+          },
+          "zone": "bottom_right"
+        }
+      ],
+      "swipe_events": [
+        {
+          "timestamp": "2025-07-29T09:18:01.380222",
+          "screen": "HomePage",
+          "duration_ms": 79,
+          "distance_px": 165.2758377351707,
+          "speed_px_per_ms": 2.092099211837604
+        },
+        {
+          "timestamp": "2025-07-29T09:18:01.380365",
+          "duration_ms": 79,
+          "distance_px": 22.40625,
+          "speed_px_per_ms": 0.283623417721519
+        },
+        {
+          "timestamp": "2025-07-29T09:18:02.505791",
+          "screen": "HomePage",
+          "duration_ms": 666,
+          "distance_px": 168.63914182730534,
+          "speed_px_per_ms": 0.25321192466562364
+        },
+        {
+          "timestamp": "2025-07-29T09:18:02.505925",
+          "duration_ms": 666,
+          "distance_px": 40.3125,
+          "speed_px_per_ms": 0.06052927927927928
+        },
+        {
+          "timestamp": "2025-07-29T09:18:13.256299",
+          "screen": "HomePage",
+          "duration_ms": 94,
+          "distance_px": 139.91888150917225,
+          "speed_px_per_ms": 1.4884987394592792
+        },
+        {
+          "timestamp": "2025-07-29T09:18:13.256431",
+          "duration_ms": 94,
+          "distance_px": 36.0,
+          "speed_px_per_ms": 0.3829787234042553
+        },
+        {
+          "timestamp": "2025-07-29T09:18:13.939993",
+          "screen": "HomePage",
+          "duration_ms": 432,
+          "distance_px": 90.09290693134662,
+          "speed_px_per_ms": 0.20854839567441347
+        },
+        {
+          "timestamp": "2025-07-29T09:18:13.940091",
+          "duration_ms": 432,
+          "distance_px": 17.71875,
+          "speed_px_per_ms": 0.041015625
+        }
+      ]
+    },
+    {
+      "screen": "TransferTypePage",
+      "timestamp": "2025-07-29T09:18:14.438915",
+      "tap_events": [
+        {
+          "timestamp": "2025-07-29T09:18:15.403266",
+          "screen": "TransferTypePage",
+          "position": {
+            "dx": 128.625,
+            "dy": 129.16666666666666
+          },
+          "zone": "top_center"
+        }
+      ],
+      "swipe_events": [
+        {
+          "timestamp": "2025-07-29T09:18:01.380222",
+          "screen": "HomePage",
+          "duration_ms": 79,
+          "distance_px": 165.2758377351707,
+          "speed_px_per_ms": 2.092099211837604
+        },
+        {
+          "timestamp": "2025-07-29T09:18:01.380365",
+          "duration_ms": 79,
+          "distance_px": 22.40625,
+          "speed_px_per_ms": 0.283623417721519
+        },
+        {
+          "timestamp": "2025-07-29T09:18:02.505791",
+          "screen": "HomePage",
+          "duration_ms": 666,
+          "distance_px": 168.63914182730534,
+          "speed_px_per_ms": 0.25321192466562364
+        },
+        {
+          "timestamp": "2025-07-29T09:18:02.505925",
+          "duration_ms": 666,
+          "distance_px": 40.3125,
+          "speed_px_per_ms": 0.06052927927927928
+        },
+        {
+          "timestamp": "2025-07-29T09:18:13.256299",
+          "screen": "HomePage",
+          "duration_ms": 94,
+          "distance_px": 139.91888150917225,
+          "speed_px_per_ms": 1.4884987394592792
+        },
+        {
+          "timestamp": "2025-07-29T09:18:13.256431",
+          "duration_ms": 94,
+          "distance_px": 36.0,
+          "speed_px_per_ms": 0.3829787234042553
+        },
+        {
+          "timestamp": "2025-07-29T09:18:13.939993",
+          "screen": "HomePage",
+          "duration_ms": 432,
+          "distance_px": 90.09290693134662,
+          "speed_px_per_ms": 0.20854839567441347
+        },
+        {
+          "timestamp": "2025-07-29T09:18:13.940091",
+          "duration_ms": 432,
+          "distance_px": 17.71875,
+          "speed_px_per_ms": 0.041015625
+        }
+      ]
+    },
+    {
+      "screen": "WithinBankTransferPage",
+      "timestamp": "2025-07-29T09:18:15.513455",
+      "tap_events": [
+        {
+          "timestamp": "2025-07-29T09:18:16.069457",
+          "screen": "WithinBankTransferPage",
+          "position": {
+            "dx": 69.28125,
+            "dy": 124.79166666666667
+          },
+          "zone": "top_left"
+        },
+        {
+          "timestamp": "2025-07-29T09:18:18.653065",
+          "screen": "WithinBankTransferPage",
+          "position": {
+            "dx": 60.1875,
+            "dy": 195.0
+          },
+          "zone": "top_left"
+        },
+        {
+          "timestamp": "2025-07-29T09:18:25.390506",
+          "screen": "WithinBankTransferPage",
+          "position": {
+            "dx": 290.8125,
+            "dy": 360.8333333333333
+          },
+          "zone": "middle_right"
+        }
+      ],
+      "swipe_events": [
+        {
+          "timestamp": "2025-07-29T09:18:01.380222",
+          "screen": "HomePage",
+          "duration_ms": 79,
+          "distance_px": 165.2758377351707,
+          "speed_px_per_ms": 2.092099211837604
+        },
+        {
+          "timestamp": "2025-07-29T09:18:01.380365",
+          "duration_ms": 79,
+          "distance_px": 22.40625,
+          "speed_px_per_ms": 0.283623417721519
+        },
+        {
+          "timestamp": "2025-07-29T09:18:02.505791",
+          "screen": "HomePage",
+          "duration_ms": 666,
+          "distance_px": 168.63914182730534,
+          "speed_px_per_ms": 0.25321192466562364
+        },
+        {
+          "timestamp": "2025-07-29T09:18:02.505925",
+          "duration_ms": 666,
+          "distance_px": 40.3125,
+          "speed_px_per_ms": 0.06052927927927928
+        },
+        {
+          "timestamp": "2025-07-29T09:18:13.256299",
+          "screen": "HomePage",
+          "duration_ms": 94,
+          "distance_px": 139.91888150917225,
+          "speed_px_per_ms": 1.4884987394592792
+        },
+        {
+          "timestamp": "2025-07-29T09:18:13.256431",
+          "duration_ms": 94,
+          "distance_px": 36.0,
+          "speed_px_per_ms": 0.3829787234042553
+        },
+        {
+          "timestamp": "2025-07-29T09:18:13.939993",
+          "screen": "HomePage",
+          "duration_ms": 432,
+          "distance_px": 90.09290693134662,
+          "speed_px_per_ms": 0.20854839567441347
+        },
+        {
+          "timestamp": "2025-07-29T09:18:13.940091",
+          "duration_ms": 432,
+          "distance_px": 17.71875,
+          "speed_px_per_ms": 0.041015625
+        }
+      ]
+    }
+  ],
+  "screen_durations": {
+    "HomePage": 3,
+    "ManageDepositsPage": 20,
+    "TransferTypePage": 15,
+    "WithinBankTransferPage": 28
+  },
+  "screen_recording_detected": false,
+  "session_input": {
+    "within_bank_transfer_amount": "100000",
+    "fd_broken": true,
+    "loan_taken": false,
+    "time_from_login_to_fd": 13,
+    "time_from_login_to_loan": null,
+    "time_from_login_to_transaction": 16,
+    "time_for_transaction": 12
+  }
+}

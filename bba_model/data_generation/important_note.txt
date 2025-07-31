@@ -1,0 +1,8 @@
+# Large files can be found in drive link below
+
+bba_model/data_generation/split/train_data.csv
+bba_model/data_generation/synthetic_dataset/synthetic_legit_data.csv
+bba_model/data_generation/synthetic_dataset/synthetic_fraud_data.csv
+bba_model/data_generation/synthetic_dataset/combined_shuffled_data.csv
+
+Link: https://drive.google.com/drive/folders/1DvXYJdfq2C972kUCWVGBwsVzLN4CUMcE

@@ -1,0 +1,704 @@
+{
+  "session": {
+    "start": "2025-07-29T08:41:42.908502",
+    "end": "2025-07-29T08:42:54.169558",
+    "duration_seconds": 71
+  },
+  "device": {
+    "platform": "Android",
+    "brand": "samsung",
+    "model": "SM-G781B",
+    "manufacturer": "samsung",
+    "version": "13",
+    "sdk_int": 33
+  },
+  "location": "Location unavailable",
+  "tap_durations_ms": [
+    360.0,
+    719.0,
+    406.0,
+    1071.0,
+    10239.0,
+    16585.0,
+    1430.0,
+    1432.0,
+    5932.0,
+    23280.0,
+    964.0,
+    487.0,
+    533.0,
+    625.0,
+    583.0,
+    510.0,
+    650.0,
+    1898.0,
+    527.0,
+    508.0,
+    1421.0
+  ],
+  "tap_events": [
+    {
+      "timestamp": "2025-07-29T08:41:43.928006",
+      "screen": "HomePage",
+      "position": {
+        "dx": 295.5,
+        "dy": 726.6666666666666
+      },
+      "zone": "bottom_right"
+    },
+    {
+      "timestamp": "2025-07-29T08:41:44.288375",
+      "screen": "HomePage",
+      "position": {
+        "dx": 306.84375,
+        "dy": 546.6666666666666
+      },
+      "zone": "bottom_right"
+    },
+    {
+      "timestamp": "2025-07-29T08:41:45.008248",
+      "screen": "HomePage",
+      "position": {
+        "dx": 290.8125,
+        "dy": 659.375
+      },
+      "zone": "bottom_right"
+    },
+    {
+      "timestamp": "2025-07-29T08:41:45.414723",
+      "screen": "HomePage",
+      "position": {
+        "dx": 280.6875,
+        "dy": 667.9166666666666
+      },
+      "zone": "bottom_right"
+    },
+    {
+      "timestamp": "2025-07-29T08:41:46.486357",
+      "screen": "HomePage",
+      "position": {
+        "dx": 165.75,
+        "dy": 568.3333333333334
+      },
+      "zone": "bottom_center"
+    },
+    {
+      "timestamp": "2025-07-29T08:41:56.725607",
+      "screen": "LoanPage",
+      "position": {
+        "dx": 337.40625,
+        "dy": 397.5
+      },
+      "zone": "middle_right"
+    },
+    {
+      "timestamp": "2025-07-29T08:42:13.311487",
+      "screen": "LoanPage",
+      "position": {
+        "dx": 337.6875,
+        "dy": 756.875
+      },
+      "zone": "bottom_right"
+    },
+    {
+      "timestamp": "2025-07-29T08:42:14.742418",
+      "screen": "AddLoanPage",
+      "position": {
+        "dx": 333.84375,
+        "dy": 126.45833333333333
+      },
+      "zone": "top_right"
+    },
+    {
+      "timestamp": "2025-07-29T08:42:16.174821",
+      "screen": "AddLoanPage",
+      "position": {
+        "dx": 309.84375,
+        "dy": 204.79166666666666
+      },
+      "zone": "top_right"
+    },
+    {
+      "timestamp": "2025-07-29T08:42:22.107623",
+      "screen": "AddLoanPage",
+      "position": {
+        "dx": 45.5625,
+        "dy": 271.0416666666667
+      },
+      "zone": "middle_left"
+    },
+    {
+      "timestamp": "2025-07-29T08:42:45.388340",
+      "screen": "AddLoanPage",
+      "position": {
+        "dx": 284.90625,
+        "dy": 498.3333333333333
+      },
+      "zone": "middle_right"
+    },
+    {
+      "timestamp": "2025-07-29T08:42:46.352583",
+      "screen": "OTPVerificationPage",
+      "position": {
+        "dx": 59.0625,
+        "dy": 521.6666666666666
+      },
+      "zone": "middle_left"
+    },
+    {
+      "timestamp": "2025-07-29T08:42:46.840517",
+      "screen": "OTPVerificationPage",
+      "position": {
+        "dx": 202.125,
+        "dy": 527.5
+      },
+      "zone": "center"
+    },
+    {
+      "timestamp": "2025-07-29T08:42:47.374087",
+      "screen": "OTPVerificationPage",
+      "position": {
+        "dx": 309.46875,
+        "dy": 525.4166666666666
+      },
+      "zone": "middle_right"
+    },
+    {
+      "timestamp": "2025-07-29T08:42:47.999835",
+      "screen": "OTPVerificationPage",
+      "position": {
+        "dx": 69.65625,
+        "dy": 581.25
+      },
+      "zone": "bottom_left"
+    },
+    {
+      "timestamp": "2025-07-29T08:42:48.583194",
+      "screen": "OTPVerificationPage",
+      "position": {
+        "dx": 197.25,
+        "dy": 602.5
+      },
+      "zone": "bottom_center"
+    },
+    {
+      "timestamp": "2025-07-29T08:42:49.093850",
+      "screen": "OTPVerificationPage",
+      "position": {
+        "dx": 322.59375,
+        "dy": 606.0416666666666
+      },
+      "zone": "bottom_right"
+    },
+    {
+      "timestamp": "2025-07-29T08:42:49.744399",
+      "screen": "OTPVerificationPage",
+      "position": {
+        "dx": 92.25,
+        "dy": 443.75
+      },
+      "zone": "middle_left"
+    },
+    {
+      "timestamp": "2025-07-29T08:42:51.643180",
+      "screen": "LoanPage",
+      "position": {
+        "dx": 285.1875,
+        "dy": 560.4166666666666
+      },
+      "zone": "bottom_right"
+    },
+    {
+      "timestamp": "2025-07-29T08:42:52.171138",
+      "screen": "LoanPage",
+      "position": {
+        "dx": 36.09375,
+        "dy": 65.0
+      },
+      "zone": "top_left"
+    },
+    {
+      "timestamp": "2025-07-29T08:42:52.680037",
+      "screen": "HomePage",
+      "position": {
+        "dx": 293.90625,
+        "dy": 530.2083333333334
+      },
+      "zone": "middle_right"
+    },
+    {
+      "timestamp": "2025-07-29T08:42:54.101207",
+      "screen": "HomePage",
+      "position": {
+        "dx": 359.34375,
+        "dy": 70.0
+      },
+      "zone": "top_right"
+    }
+  ],
+  "swipe_events": [
+    {
+      "timestamp": "2025-07-29T08:41:44.028500",
+      "screen": "HomePage",
+      "duration_ms": 100,
+      "distance_px": 190.423336236678,
+      "speed_px_per_ms": 1.9042333623667802
+    },
+    {
+      "timestamp": "2025-07-29T08:41:44.028680",
+      "duration_ms": 100,
+      "distance_px": 1.59375,
+      "speed_px_per_ms": 0.0159375
+    },
+    {
+      "timestamp": "2025-07-29T08:41:44.394885",
+      "screen": "HomePage",
+      "duration_ms": 106,
+      "distance_px": 70.65740714198185,
+      "speed_px_per_ms": 0.6665793126602061
+    },
+    {
+      "timestamp": "2025-07-29T08:41:44.394955",
+      "duration_ms": 106,
+      "distance_px": 14.4375,
+      "speed_px_per_ms": 0.13620283018867924
+    },
+    {
+      "timestamp": "2025-07-29T08:41:45.128690",
+      "screen": "HomePage",
+      "duration_ms": 120,
+      "distance_px": 55.06062098729854,
+      "speed_px_per_ms": 0.45883850822748784
+    },
+    {
+      "timestamp": "2025-07-29T08:41:45.128992",
+      "duration_ms": 120,
+      "distance_px": 12.84375,
+      "speed_px_per_ms": 0.10703125
+    },
+    {
+      "timestamp": "2025-07-29T08:41:45.962394",
+      "screen": "HomePage",
+      "duration_ms": 547,
+      "distance_px": 55.22911951462851,
+      "speed_px_per_ms": 0.10096731172692597
+    },
+    {
+      "timestamp": "2025-07-29T08:41:45.962531",
+      "duration_ms": 547,
+      "distance_px": 6.9375,
+      "speed_px_per_ms": 0.012682815356489945
+    },
+    {
+      "timestamp": "2025-07-29T08:42:51.726804",
+      "screen": "LoanPage",
+      "duration_ms": 83,
+      "distance_px": 136.98296255830505,
+      "speed_px_per_ms": 1.6503971392566874
+    },
+    {
+      "timestamp": "2025-07-29T08:42:51.726908",
+      "duration_ms": 83,
+      "distance_px": 5.4375,
+      "speed_px_per_ms": 0.06551204819277108
+    },
+    {
+      "timestamp": "2025-07-29T08:42:52.742676",
+      "screen": "HomePage",
+      "duration_ms": 62,
+      "distance_px": 115.7077523879606,
+      "speed_px_per_ms": 1.866254070773558
+    },
+    {
+      "timestamp": "2025-07-29T08:42:52.742827",
+      "duration_ms": 62,
+      "distance_px": 14.53125,
+      "speed_px_per_ms": 0.234375
+    }
+  ],
+  "screens_visited": [
+    {
+      "screen": "HomePage",
+      "timestamp": "2025-07-29T08:41:42.909265",
+      "tap_events": [
+        {
+          "timestamp": "2025-07-29T08:41:43.928006",
+          "screen": "HomePage",
+          "position": {
+            "dx": 295.5,
+            "dy": 726.6666666666666
+          },
+          "zone": "bottom_right"
+        },
+        {
+          "timestamp": "2025-07-29T08:41:44.288375",
+          "screen": "HomePage",
+          "position": {
+            "dx": 306.84375,
+            "dy": 546.6666666666666
+          },
+          "zone": "bottom_right"
+        },
+        {
+          "timestamp": "2025-07-29T08:41:45.008248",
+          "screen": "HomePage",
+          "position": {
+            "dx": 290.8125,
+            "dy": 659.375
+          },
+          "zone": "bottom_right"
+        },
+        {
+          "timestamp": "2025-07-29T08:41:45.414723",
+          "screen": "HomePage",
+          "position": {
+            "dx": 280.6875,
+            "dy": 667.9166666666666
+          },
+          "zone": "bottom_right"
+        },
+        {
+          "timestamp": "2025-07-29T08:41:46.486357",
+          "screen": "HomePage",
+          "position": {
+            "dx": 165.75,
+            "dy": 568.3333333333334
+          },
+          "zone": "bottom_center"
+        }
+      ],
+      "swipe_events": [
+        {
+          "timestamp": "2025-07-29T08:41:44.028500",
+          "screen": "HomePage",
+          "duration_ms": 100,
+          "distance_px": 190.423336236678,
+          "speed_px_per_ms": 1.9042333623667802
+        },
+        {
+          "timestamp": "2025-07-29T08:41:44.028680",
+          "duration_ms": 100,
+          "distance_px": 1.59375,
+          "speed_px_per_ms": 0.0159375
+        },
+        {
+          "timestamp": "2025-07-29T08:41:44.394885",
+          "screen": "HomePage",
+          "duration_ms": 106,
+          "distance_px": 70.65740714198185,
+          "speed_px_per_ms": 0.6665793126602061
+        },
+        {
+          "timestamp": "2025-07-29T08:41:44.394955",
+          "duration_ms": 106,
+          "distance_px": 14.4375,
+          "speed_px_per_ms": 0.13620283018867924
+        },
+        {
+          "timestamp": "2025-07-29T08:41:45.128690",
+          "screen": "HomePage",
+          "duration_ms": 120,
+          "distance_px": 55.06062098729854,
+          "speed_px_per_ms": 0.45883850822748784
+        },
+        {
+          "timestamp": "2025-07-29T08:41:45.128992",
+          "duration_ms": 120,
+          "distance_px": 12.84375,
+          "speed_px_per_ms": 0.10703125
+        },
+        {
+          "timestamp": "2025-07-29T08:41:45.962394",
+          "screen": "HomePage",
+          "duration_ms": 547,
+          "distance_px": 55.22911951462851,
+          "speed_px_per_ms": 0.10096731172692597
+        },
+        {
+          "timestamp": "2025-07-29T08:41:45.962531",
+          "duration_ms": 547,
+          "distance_px": 6.9375,
+          "speed_px_per_ms": 0.012682815356489945
+        }
+      ]
+    },
+    {
+      "screen": "LoanPage",
+      "timestamp": "2025-07-29T08:41:46.561119",
+      "tap_events": [
+        {
+          "timestamp": "2025-07-29T08:41:56.725607",
+          "screen": "LoanPage",
+          "position": {
+            "dx": 337.40625,
+            "dy": 397.5
+          },
+          "zone": "middle_right"
+        },
+        {
+          "timestamp": "2025-07-29T08:42:13.311487",
+          "screen": "LoanPage",
+          "position": {
+            "dx": 337.6875,
+            "dy": 756.875
+          },
+          "zone": "bottom_right"
+        }
+      ],
+      "swipe_events": [
+        {
+          "timestamp": "2025-07-29T08:41:44.028500",
+          "screen": "HomePage",
+          "duration_ms": 100,
+          "distance_px": 190.423336236678,
+          "speed_px_per_ms": 1.9042333623667802
+        },
+        {
+          "timestamp": "2025-07-29T08:41:44.028680",
+          "duration_ms": 100,
+          "distance_px": 1.59375,
+          "speed_px_per_ms": 0.0159375
+        },
+        {
+          "timestamp": "2025-07-29T08:41:44.394885",
+          "screen": "HomePage",
+          "duration_ms": 106,
+          "distance_px": 70.65740714198185,
+          "speed_px_per_ms": 0.6665793126602061
+        },
+        {
+          "timestamp": "2025-07-29T08:41:44.394955",
+          "duration_ms": 106,
+          "distance_px": 14.4375,
+          "speed_px_per_ms": 0.13620283018867924
+        },
+        {
+          "timestamp": "2025-07-29T08:41:45.128690",
+          "screen": "HomePage",
+          "duration_ms": 120,
+          "distance_px": 55.06062098729854,
+          "speed_px_per_ms": 0.45883850822748784
+        },
+        {
+          "timestamp": "2025-07-29T08:41:45.128992",
+          "duration_ms": 120,
+          "distance_px": 12.84375,
+          "speed_px_per_ms": 0.10703125
+        },
+        {
+          "timestamp": "2025-07-29T08:41:45.962394",
+          "screen": "HomePage",
+          "duration_ms": 547,
+          "distance_px": 55.22911951462851,
+          "speed_px_per_ms": 0.10096731172692597
+        },
+        {
+          "timestamp": "2025-07-29T08:41:45.962531",
+          "duration_ms": 547,
+          "distance_px": 6.9375,
+          "speed_px_per_ms": 0.012682815356489945
+        }
+      ]
+    },
+    {
+      "screen": "AddLoanPage",
+      "timestamp": "2025-07-29T08:42:13.382096",
+      "tap_events": [
+        {
+          "timestamp": "2025-07-29T08:42:14.742418",
+          "screen": "AddLoanPage",
+          "position": {
+            "dx": 333.84375,
+            "dy": 126.45833333333333
+          },
+          "zone": "top_right"
+        },
+        {
+          "timestamp": "2025-07-29T08:42:16.174821",
+          "screen": "AddLoanPage",
+          "position": {
+            "dx": 309.84375,
+            "dy": 204.79166666666666
+          },
+          "zone": "top_right"
+        },
+        {
+          "timestamp": "2025-07-29T08:42:22.107623",
+          "screen": "AddLoanPage",
+          "position": {
+            "dx": 45.5625,
+            "dy": 271.0416666666667
+          },
+          "zone": "middle_left"
+        }
+      ],
+      "swipe_events": [
+        {
+          "timestamp": "2025-07-29T08:41:44.028500",
+          "screen": "HomePage",
+          "duration_ms": 100,
+          "distance_px": 190.423336236678,
+          "speed_px_per_ms": 1.9042333623667802
+        },
+        {
+          "timestamp": "2025-07-29T08:41:44.028680",
+          "duration_ms": 100,
+          "distance_px": 1.59375,
+          "speed_px_per_ms": 0.0159375
+        },
+        {
+          "timestamp": "2025-07-29T08:41:44.394885",
+          "screen": "HomePage",
+          "duration_ms": 106,
+          "distance_px": 70.65740714198185,
+          "speed_px_per_ms": 0.6665793126602061
+        },
+        {
+          "timestamp": "2025-07-29T08:41:44.394955",
+          "duration_ms": 106,
+          "distance_px": 14.4375,
+          "speed_px_per_ms": 0.13620283018867924
+        },
+        {
+          "timestamp": "2025-07-29T08:41:45.128690",
+          "screen": "HomePage",
+          "duration_ms": 120,
+          "distance_px": 55.06062098729854,
+          "speed_px_per_ms": 0.45883850822748784
+        },
+        {
+          "timestamp": "2025-07-29T08:41:45.128992",
+          "duration_ms": 120,
+          "distance_px": 12.84375,
+          "speed_px_per_ms": 0.10703125
+        },
+        {
+          "timestamp": "2025-07-29T08:41:45.962394",
+          "screen": "HomePage",
+          "duration_ms": 547,
+          "distance_px": 55.22911951462851,
+          "speed_px_per_ms": 0.10096731172692597
+        },
+        {
+          "timestamp": "2025-07-29T08:41:45.962531",
+          "duration_ms": 547,
+          "distance_px": 6.9375,
+          "speed_px_per_ms": 0.012682815356489945
+        }
+      ]
+    },
+    {
+      "screen": "OTPVerificationPage",
+      "timestamp": "2025-07-29T08:42:45.444912",
+      "tap_events": [
+        {
+          "timestamp": "2025-07-29T08:42:46.352583",
+          "screen": "OTPVerificationPage",
+          "position": {
+            "dx": 59.0625,
+            "dy": 521.6666666666666
+          },
+          "zone": "middle_left"
+        },
+        {
+          "timestamp": "2025-07-29T08:42:46.840517",
+          "screen": "OTPVerificationPage",
+          "position": {
+            "dx": 202.125,
+            "dy": 527.5
+          },
+          "zone": "center"
+        },
+        {
+          "timestamp": "2025-07-29T08:42:47.374087",
+          "screen": "OTPVerificationPage",
+          "position": {
+            "dx": 309.46875,
+            "dy": 525.4166666666666
+          },
+          "zone": "middle_right"
+        },
+        {
+          "timestamp": "2025-07-29T08:42:47.999835",
+          "screen": "OTPVerificationPage",
+          "position": {
+            "dx": 69.65625,
+            "dy": 581.25
+          },
+          "zone": "bottom_left"
+        },
+        {
+          "timestamp": "2025-07-29T08:42:48.583194",
+          "screen": "OTPVerificationPage",
+          "position": {
+            "dx": 197.25,
+            "dy": 602.5
+          },
+          "zone": "bottom_center"
+        },
+        {
+          "timestamp": "2025-07-29T08:42:49.093850",
+          "screen": "OTPVerificationPage",
+          "position": {
+            "dx": 322.59375,
+            "dy": 606.0416666666666
+          },
+          "zone": "bottom_right"
+        },
+        {
+          "timestamp": "2025-07-29T08:42:49.744399",
+          "screen": "OTPVerificationPage",
+          "position": {
+            "dx": 92.25,
+            "dy": 443.75
+          },
+          "zone": "middle_left"
+        }
+      ],
+      "swipe_events": [
+        {
+          "timestamp": "2025-07-29T08:42:51.726804",
+          "screen": "LoanPage",
+          "duration_ms": 83,
+          "distance_px": 136.98296255830505,
+          "speed_px_per_ms": 1.6503971392566874
+        },
+        {
+          "timestamp": "2025-07-29T08:42:51.726908",
+          "duration_ms": 83,
+          "distance_px": 5.4375,
+          "speed_px_per_ms": 0.06551204819277108
+        },
+        {
+          "timestamp": "2025-07-29T08:42:52.742676",
+          "screen": "HomePage",
+          "duration_ms": 62,
+          "distance_px": 115.7077523879606,
+          "speed_px_per_ms": 1.866254070773558
+        },
+        {
+          "timestamp": "2025-07-29T08:42:52.742827",
+          "duration_ms": 62,
+          "distance_px": 14.53125,
+          "speed_px_per_ms": 0.234375
+        }
+      ]
+    }
+  ],
+  "screen_durations": {
+    "HomePage": 3,
+    "LoanPage": 91,
+    "AddLoanPage": 64,
+    "OTPVerificationPage": 12
+  },
+  "screen_recording_detected": false,
+  "session_input": {
+    "within_bank_transfer_amount": null,
+    "fd_broken": false,
+    "loan_taken": true,
+    "time_from_login_to_fd": null,
+    "time_from_login_to_loan": 67,
+    "time_from_login_to_transaction": null,
+    "time_for_transaction": null
+  }
+}

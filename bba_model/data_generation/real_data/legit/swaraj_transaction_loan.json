@@ -1,0 +1,581 @@
+{
+  "session": {
+    "start": "2025-07-28T20:23:48.645463",
+    "end": "2025-07-28T20:25:24.010026",
+    "duration_seconds": 95
+  },
+  "device": {
+    "platform": "Android",
+    "brand": "google",
+    "model": "sdk_gphone64_x86_64",
+    "manufacturer": "Google",
+    "version": "16",
+    "sdk_int": 36
+  },
+  "location": {
+    "latitude": 37.4219983,
+    "longitude": -122.084
+  },
+  "tap_durations_ms": [
+    105.0,
+    4037.0,
+    1675.0,
+    103.0,
+    7660.0,
+    104.0,
+    5911.0,
+    103.0,
+    9829.0,
+    103.0,
+    10569.0,
+    103.0,
+    2700.0,
+    104.0,
+    10294.0,
+    106.0,
+    1433.0,
+    103.0,
+    2852.0,
+    103.0,
+    787.0,
+    103.0,
+    3682.0,
+    103.0,
+    12988.0,
+    103.0,
+    1380.0,
+    742.0,
+    756.0,
+    1096.0,
+    720.0,
+    664.0,
+    1047.0,
+    2474.0,
+    103.0,
+    2399.0,
+    103.0,
+    2077.0,
+    103.0
+  ],
+  "tap_events": [
+    {
+      "timestamp": "2025-07-28T20:23:54.450651",
+      "screen": "HomePage",
+      "position": {
+        "dx": 66.9921875,
+        "dy": 510.2932942708333
+      },
+      "zone": "middle_left"
+    },
+    {
+      "timestamp": "2025-07-28T20:23:58.593941",
+      "screen": "TransferTypePage",
+      "position": {
+        "dx": 364.314453125,
+        "dy": 148.31575520833334
+      },
+      "zone": "top_right"
+    },
+    {
+      "timestamp": "2025-07-28T20:24:00.269938",
+      "screen": "WithinBankTransferPage",
+      "position": {
+        "dx": 347.9765625,
+        "dy": 158.63346354166666
+      },
+      "zone": "top_right"
+    },
+    {
+      "timestamp": "2025-07-28T20:24:08.033780",
+      "screen": "WithinBankTransferPage",
+      "position": {
+        "dx": 293.31640625,
+        "dy": 238.3154296875
+      },
+      "zone": "top_center"
+    },
+    {
+      "timestamp": "2025-07-28T20:24:14.049763",
+      "screen": "WithinBankTransferPage",
+      "position": {
+        "dx": 268.32421875,
+        "dy": 292.9788411458333
+      },
+      "zone": "top_center"
+    },
+    {
+      "timestamp": "2025-07-28T20:24:23.982906",
+      "screen": "WithinBankTransferPage",
+      "position": {
+        "dx": 244.658203125,
+        "dy": 377.3177083333333
+      },
+      "zone": "center"
+    },
+    {
+      "timestamp": "2025-07-28T20:24:34.656504",
+      "screen": "HomePage",
+      "position": {
+        "dx": 157.322265625,
+        "dy": 798.2805989583334
+      },
+      "zone": "bottom_center"
+    },
+    {
+      "timestamp": "2025-07-28T20:24:37.460764",
+      "screen": "HomePage",
+      "position": {
+        "dx": 185.322265625,
+        "dy": 548.6429036458334
+      },
+      "zone": "center"
+    },
+    {
+      "timestamp": "2025-07-28T20:24:47.859802",
+      "screen": "LoanPage",
+      "position": {
+        "dx": 411.646484375,
+        "dy": 894.2763671875
+      },
+      "zone": "bottom_right"
+    },
+    {
+      "timestamp": "2025-07-28T20:24:49.399583",
+      "screen": "AddLoanPage",
+      "position": {
+        "dx": 303.65234375,
+        "dy": 174.97786458333334
+      },
+      "zone": "top_right"
+    },
+    {
+      "timestamp": "2025-07-28T20:24:52.355440",
+      "screen": "AddLoanPage",
+      "position": {
+        "dx": 318.322265625,
+        "dy": 258.9817708333333
+      },
+      "zone": "top_right"
+    },
+    {
+      "timestamp": "2025-07-28T20:24:53.246043",
+      "screen": "AddLoanPage",
+      "position": {
+        "dx": 338.98046875,
+        "dy": 233.96321614583334
+      },
+      "zone": "top_right"
+    },
+    {
+      "timestamp": "2025-07-28T20:24:57.032038",
+      "screen": "AddLoanPage",
+      "position": {
+        "dx": 316.982421875,
+        "dy": 312.3059895833333
+      },
+      "zone": "top_right"
+    },
+    {
+      "timestamp": "2025-07-28T20:25:10.123973",
+      "screen": "AddLoanPage",
+      "position": {
+        "dx": 293.31640625,
+        "dy": 519.3024088541666
+      },
+      "zone": "center"
+    },
+    {
+      "timestamp": "2025-07-28T20:25:11.606995",
+      "screen": "OTPVerificationPage",
+      "position": {
+        "dx": 71.654296875,
+        "dy": 742.30859375
+      },
+      "zone": "bottom_left"
+    },
+    {
+      "timestamp": "2025-07-28T20:25:12.349404",
+      "screen": "OTPVerificationPage",
+      "position": {
+        "dx": 219.32421875,
+        "dy": 727.6383463541666
+      },
+      "zone": "bottom_center"
+    },
+    {
+      "timestamp": "2025-07-28T20:25:13.105419",
+      "screen": "OTPVerificationPage",
+      "position": {
+        "dx": 338.98046875,
+        "dy": 731.9602864583334
+      },
+      "zone": "bottom_right"
+    },
+    {
+      "timestamp": "2025-07-28T20:25:14.201642",
+      "screen": "OTPVerificationPage",
+      "position": {
+        "dx": 95.3203125,
+        "dy": 786.6236979166666
+      },
+      "zone": "bottom_left"
+    },
+    {
+      "timestamp": "2025-07-28T20:25:14.922513",
+      "screen": "OTPVerificationPage",
+      "position": {
+        "dx": 223.986328125,
+        "dy": 820.6207682291666
+      },
+      "zone": "bottom_center"
+    },
+    {
+      "timestamp": "2025-07-28T20:25:15.586866",
+      "screen": "OTPVerificationPage",
+      "position": {
+        "dx": 377.64453125,
+        "dy": 813.2858072916666
+      },
+      "zone": "bottom_right"
+    },
+    {
+      "timestamp": "2025-07-28T20:25:16.633935",
+      "screen": "OTPVerificationPage",
+      "position": {
+        "dx": 266.65625,
+        "dy": 483.6311848958333
+      },
+      "zone": "center"
+    },
+    {
+      "timestamp": "2025-07-28T20:25:19.108453",
+      "screen": "LoanPage",
+      "position": {
+        "dx": 28.65625,
+        "dy": 81.9951171875
+      },
+      "zone": "top_left"
+    },
+    {
+      "timestamp": "2025-07-28T20:25:21.611047",
+      "screen": "HomePage",
+      "position": {
+        "dx": 279.986328125,
+        "dy": 325.6370442708333
+      },
+      "zone": "top_center"
+    },
+    {
+      "timestamp": "2025-07-28T20:25:23.791751",
+      "screen": "HomePage",
+      "position": {
+        "dx": 420.314453125,
+        "dy": 74.3251953125
+      },
+      "zone": "top_right"
+    }
+  ],
+  "swipe_events": [
+    {
+      "timestamp": "2025-07-28T20:24:35.816034",
+      "screen": "HomePage",
+      "duration_ms": 1159,
+      "distance_px": 438.6537964337742,
+      "speed_px_per_ms": 0.3784760970092961
+    },
+    {
+      "timestamp": "2025-07-28T20:24:35.816293",
+      "duration_ms": 1159,
+      "distance_px": 72.32421875,
+      "speed_px_per_ms": 0.062402259490940463
+    },
+    {
+      "timestamp": "2025-07-28T20:25:22.029640",
+      "screen": "HomePage",
+      "duration_ms": 418,
+      "distance_px": 412.4307333884807,
+      "speed_px_per_ms": 0.9866763956662218
+    },
+    {
+      "timestamp": "2025-07-28T20:25:22.030179",
+      "duration_ms": 419,
+      "distance_px": 38.3359375,
+      "speed_px_per_ms": 0.09149388424821002
+    }
+  ],
+  "screens_visited": [
+    {
+      "screen": "HomePage",
+      "timestamp": "2025-07-28T20:23:48.647244",
+      "tap_events": [
+        {
+          "timestamp": "2025-07-28T20:23:54.450651",
+          "screen": "HomePage",
+          "position": {
+            "dx": 66.9921875,
+            "dy": 510.2932942708333
+          },
+          "zone": "middle_left"
+        }
+      ],
+      "swipe_events": []
+    },
+    {
+      "screen": "TransferTypePage",
+      "timestamp": "2025-07-28T20:23:54.687788",
+      "tap_events": [
+        {
+          "timestamp": "2025-07-28T20:23:58.593941",
+          "screen": "TransferTypePage",
+          "position": {
+            "dx": 364.314453125,
+            "dy": 148.31575520833334
+          },
+          "zone": "top_right"
+        }
+      ],
+      "swipe_events": []
+    },
+    {
+      "screen": "WithinBankTransferPage",
+      "timestamp": "2025-07-28T20:23:58.829598",
+      "tap_events": [
+        {
+          "timestamp": "2025-07-28T20:24:00.269938",
+          "screen": "WithinBankTransferPage",
+          "position": {
+            "dx": 347.9765625,
+            "dy": 158.63346354166666
+          },
+          "zone": "top_right"
+        },
+        {
+          "timestamp": "2025-07-28T20:24:08.033780",
+          "screen": "WithinBankTransferPage",
+          "position": {
+            "dx": 293.31640625,
+            "dy": 238.3154296875
+          },
+          "zone": "top_center"
+        },
+        {
+          "timestamp": "2025-07-28T20:24:14.049763",
+          "screen": "WithinBankTransferPage",
+          "position": {
+            "dx": 268.32421875,
+            "dy": 292.9788411458333
+          },
+          "zone": "top_center"
+        },
+        {
+          "timestamp": "2025-07-28T20:24:23.982906",
+          "screen": "WithinBankTransferPage",
+          "position": {
+            "dx": 244.658203125,
+            "dy": 377.3177083333333
+          },
+          "zone": "center"
+        }
+      ],
+      "swipe_events": []
+    },
+    {
+      "screen": "LoanPage",
+      "timestamp": "2025-07-28T20:24:37.700725",
+      "tap_events": [
+        {
+          "timestamp": "2025-07-28T20:24:47.859802",
+          "screen": "LoanPage",
+          "position": {
+            "dx": 411.646484375,
+            "dy": 894.2763671875
+          },
+          "zone": "bottom_right"
+        }
+      ],
+      "swipe_events": [
+        {
+          "timestamp": "2025-07-28T20:24:35.816034",
+          "screen": "HomePage",
+          "duration_ms": 1159,
+          "distance_px": 438.6537964337742,
+          "speed_px_per_ms": 0.3784760970092961
+        },
+        {
+          "timestamp": "2025-07-28T20:24:35.816293",
+          "duration_ms": 1159,
+          "distance_px": 72.32421875,
+          "speed_px_per_ms": 0.062402259490940463
+        }
+      ]
+    },
+    {
+      "screen": "AddLoanPage",
+      "timestamp": "2025-07-28T20:24:48.076476",
+      "tap_events": [
+        {
+          "timestamp": "2025-07-28T20:24:49.399583",
+          "screen": "AddLoanPage",
+          "position": {
+            "dx": 303.65234375,
+            "dy": 174.97786458333334
+          },
+          "zone": "top_right"
+        },
+        {
+          "timestamp": "2025-07-28T20:24:52.355440",
+          "screen": "AddLoanPage",
+          "position": {
+            "dx": 318.322265625,
+            "dy": 258.9817708333333
+          },
+          "zone": "top_right"
+        },
+        {
+          "timestamp": "2025-07-28T20:24:53.246043",
+          "screen": "AddLoanPage",
+          "position": {
+            "dx": 338.98046875,
+            "dy": 233.96321614583334
+          },
+          "zone": "top_right"
+        },
+        {
+          "timestamp": "2025-07-28T20:24:57.032038",
+          "screen": "AddLoanPage",
+          "position": {
+            "dx": 316.982421875,
+            "dy": 312.3059895833333
+          },
+          "zone": "top_right"
+        },
+        {
+          "timestamp": "2025-07-28T20:25:10.123973",
+          "screen": "AddLoanPage",
+          "position": {
+            "dx": 293.31640625,
+            "dy": 519.3024088541666
+          },
+          "zone": "center"
+        }
+      ],
+      "swipe_events": [
+        {
+          "timestamp": "2025-07-28T20:24:35.816034",
+          "screen": "HomePage",
+          "duration_ms": 1159,
+          "distance_px": 438.6537964337742,
+          "speed_px_per_ms": 0.3784760970092961
+        },
+        {
+          "timestamp": "2025-07-28T20:24:35.816293",
+          "duration_ms": 1159,
+          "distance_px": 72.32421875,
+          "speed_px_per_ms": 0.062402259490940463
+        }
+      ]
+    },
+    {
+      "screen": "OTPVerificationPage",
+      "timestamp": "2025-07-28T20:25:10.370774",
+      "tap_events": [
+        {
+          "timestamp": "2025-07-28T20:25:11.606995",
+          "screen": "OTPVerificationPage",
+          "position": {
+            "dx": 71.654296875,
+            "dy": 742.30859375
+          },
+          "zone": "bottom_left"
+        },
+        {
+          "timestamp": "2025-07-28T20:25:12.349404",
+          "screen": "OTPVerificationPage",
+          "position": {
+            "dx": 219.32421875,
+            "dy": 727.6383463541666
+          },
+          "zone": "bottom_center"
+        },
+        {
+          "timestamp": "2025-07-28T20:25:13.105419",
+          "screen": "OTPVerificationPage",
+          "position": {
+            "dx": 338.98046875,
+            "dy": 731.9602864583334
+          },
+          "zone": "bottom_right"
+        },
+        {
+          "timestamp": "2025-07-28T20:25:14.201642",
+          "screen": "OTPVerificationPage",
+          "position": {
+            "dx": 95.3203125,
+            "dy": 786.6236979166666
+          },
+          "zone": "bottom_left"
+        },
+        {
+          "timestamp": "2025-07-28T20:25:14.922513",
+          "screen": "OTPVerificationPage",
+          "position": {
+            "dx": 223.986328125,
+            "dy": 820.6207682291666
+          },
+          "zone": "bottom_center"
+        },
+        {
+          "timestamp": "2025-07-28T20:25:15.586866",
+          "screen": "OTPVerificationPage",
+          "position": {
+            "dx": 377.64453125,
+            "dy": 813.2858072916666
+          },
+          "zone": "bottom_right"
+        },
+        {
+          "timestamp": "2025-07-28T20:25:16.633935",
+          "screen": "OTPVerificationPage",
+          "position": {
+            "dx": 266.65625,
+            "dy": 483.6311848958333
+          },
+          "zone": "center"
+        }
+      ],
+      "swipe_events": [
+        {
+          "timestamp": "2025-07-28T20:25:22.029640",
+          "screen": "HomePage",
+          "duration_ms": 418,
+          "distance_px": 412.4307333884807,
+          "speed_px_per_ms": 0.9866763956662218
+        },
+        {
+          "timestamp": "2025-07-28T20:25:22.030179",
+          "duration_ms": 419,
+          "distance_px": 38.3359375,
+          "speed_px_per_ms": 0.09149388424821002
+        }
+      ]
+    }
+  ],
+  "screen_durations": {
+    "HomePage": 6,
+    "TransferTypePage": 42,
+    "WithinBankTransferPage": 72,
+    "LoanPage": 51,
+    "AddLoanPage": 44,
+    "OTPVerificationPage": 19
+  },
+  "screen_recording_detected": false,
+  "session_input": {
+    "within_bank_transfer_amount": "30000",
+    "fd_broken": false,
+    "loan_taken": true,
+    "time_from_login_to_fd": null,
+    "time_from_login_to_loan": 88,
+    "time_from_login_to_transaction": 10,
+    "time_for_transaction": 32
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "session": {
+    "start": "2025-07-29T13:39:24.329170",
+    "end": "2025-07-29T13:39:48.890865",
+    "duration_seconds": 24,
+    "trust_score": 82,
+    "penalties_applied": []
+  },
+  "device": {
+    "platform": "Android",
+    "brand": "Redmi",
+    "model": "2411DRN47I",
+    "manufacturer": "Xiaomi",
+    "version": "14",
+    "sdk_int": 34
+  },
+  "location": {
+    "latitude": 13.0689721,
+    "longitude": 77.7922887
+  },
+  "tap_durations_ms": [
+    1075.0,
+    779.0,
+    13613.0,
+    1930.0,
+    6020.0
+  ],
+  "tap_events": [
+    {
+      "timestamp": "2025-07-29T13:39:25.403951",
+      "screen": "HomePage",
+      "position": {
+        "dx": 62.0,
+        "dy": 442.5
+      },
+      "zone": "middle_left"
+    },
+    {
+      "timestamp": "2025-07-29T13:39:26.479080",
+      "screen": "TransferTypePage",
+      "position": {
+        "dx": 271.5,
+        "dy": 152.0
+      },
+      "zone": "top_right"
+    },
+    {
+      "timestamp": "2025-07-29T13:39:27.259076",
+      "screen": "WithinBankTransferPage",
+      "position": {
+        "dx": 209.5,
+        "dy": 142.5
+      },
+      "zone": "top_center"
+    },
+    {
+      "timestamp": "2025-07-29T13:39:40.872758",
+      "screen": "WithinBankTransferPage",
+      "position": {
+        "dx": 233.5,
+        "dy": 224.0
+      },
+      "zone": "top_center"
+    },
+    {
+      "timestamp": "2025-07-29T13:39:42.803415",
+      "screen": "WithinBankTransferPage",
+      "position": {
+        "dx": 283.5,
+        "dy": 361.5
+      },
+      "zone": "middle_right"
+    },
+    {
+      "timestamp": "2025-07-29T13:39:48.823611",
+      "screen": "HomePage",
+      "position": {
+        "dx": 342.0,
+        "dy": 62.5
+      },
+      "zone": "top_right"
+    }
+  ],
+  "swipe_events": [],
+  "screens_visited": [
+    {
+      "screen": "HomePage",
+      "timestamp": "2025-07-29T13:39:24.337557",
+      "tap_events": [
+        {
+          "timestamp": "2025-07-29T13:39:25.403951",
+          "screen": "HomePage",
+          "position": {
+            "dx": 62.0,
+            "dy": 442.5
+          },
+          "zone": "middle_left"
+        },
+        {
+          "timestamp": "2025-07-29T13:39:48.823611",
+          "screen": "HomePage",
+          "position": {
+            "dx": 342.0,
+            "dy": 62.5
+          },
+          "zone": "top_right"
+        }
+      ],
+      "swipe_events": []
+    },
+    {
+      "screen": "TransferTypePage",
+      "timestamp": "2025-07-29T13:39:25.437929",
+      "tap_events": [
+        {
+          "timestamp": "2025-07-29T13:39:26.479080",
+          "screen": "TransferTypePage",
+          "position": {
+            "dx": 271.5,
+            "dy": 152.0
+          },
+          "zone": "top_right"
+        }
+      ],
+      "swipe_events": []
+    },
+    {
+      "screen": "WithinBankTransferPage",
+      "timestamp": "2025-07-29T13:39:26.563491",
+      "tap_events": [
+        {
+          "timestamp": "2025-07-29T13:39:27.259076",
+          "screen": "WithinBankTransferPage",
+          "position": {
+            "dx": 209.5,
+            "dy": 142.5
+          },
+          "zone": "top_center"
+        },
+        {
+          "timestamp": "2025-07-29T13:39:40.872758",
+          "screen": "WithinBankTransferPage",
+          "position": {
+            "dx": 233.5,
+            "dy": 224.0
+          },
+          "zone": "top_center"
+        },
+        {
+          "timestamp": "2025-07-29T13:39:42.803415",
+          "screen": "WithinBankTransferPage",
+          "position": {
+            "dx": 283.5,
+            "dy": 361.5
+          },
+          "zone": "middle_right"
+        }
+      ],
+      "swipe_events": []
+    }
+  ],
+  "screen_durations": {
+    "HomePage": 1,
+    "TransferTypePage": 22,
+    "WithinBankTransferPage": 42
+  },
+  "screen_recording_detected": true,
+  "session_input": {
+    "within_bank_transfer_amount": "5200",
+    "fd_broken": false,
+    "loan_taken": false,
+    "time_from_login_to_fd": null,
+    "time_from_login_to_loan": null,
+    "time_from_login_to_transaction": 2,
+    "time_for_transaction": 18
+  },
+  "behavior_analysis": [
+    {
+      "id": 6,
+      "timestamp": "2025-07-29T13:38:19.048168",
+      "penalty": -6,
+      "description": "Very fast tap",
+      "extra_data": 60
+    },
+    {
+      "id": 1,
+      "timestamp": "2025-07-29T13:38:21.378144",
+      "penalty": -15,
+      "description": "Immediate transaction after login",
+      "extra_data": null
+    },
+    {
+      "id": 6,
+      "timestamp": "2025-07-29T13:38:40.605633",
+      "penalty": -6,
+      "description": "Very fast tap",
+      "extra_data": 11
+    },
+    {
+      "id": 6,
+      "timestamp": "2025-07-29T13:38:41.757939",
+      "penalty": -6,
+      "description": "Very fast tap",
+      "extra_data": 58
+    },
+    {
+      "id": 6,
+      "timestamp": "2025-07-29T13:38:46.988975",
+      "penalty": -6,
+      "description": "Very fast tap",
+      "extra_data": 14
+    },
+    {
+      "id": 6,
+      "timestamp": "2025-07-29T13:38:47.522200",
+      "penalty": -6,
+      "description": "Very fast tap",
+      "extra_data": 37
+    },
+    {
+      "id": 6,
+      "timestamp": "2025-07-29T13:38:48.872755",
+      "penalty": -6,
+      "description": "Very fast tap",
+      "extra_data": 37
+    },
+    {
+      "id": 6,
+      "timestamp": "2025-07-29T13:38:50.855837",
+      "penalty": -6,
+      "description": "Very fast tap",
+      "extra_data": 55
+    },
+    {
+      "id": 6,
+      "timestamp": "2025-07-29T13:38:56.484333",
+      "penalty": -6,
+      "description": "Very fast tap",
+      "extra_data": 38
+    },
+    {
+      "id": 6,
+      "timestamp": "2025-07-29T13:39:25.421649",
+      "penalty": -6,
+      "description": "Very fast tap",
+      "extra_data": 17
+    },
+    {
+      "id": 6,
+      "timestamp": "2025-07-29T13:39:26.534090",
+      "penalty": -6,
+      "description": "Very fast tap",
+      "extra_data": 54
+    },
+    {
+      "id": 6,
+      "timestamp": "2025-07-29T13:39:27.299055",
+      "penalty": -6,
+      "description": "Very fast tap",
+      "extra_data": 39
+    },
+    {
+      "id": 1,
+      "timestamp": "2025-07-29T13:39:29.345289",
+      "penalty": -15,
+      "description": "Immediate transaction after login",
+      "extra_data": null
+    },
+    {
+      "id": 6,
+      "timestamp": "2025-07-29T13:39:40.933370",
+      "penalty": -6,
+      "description": "Very fast tap",
+      "extra_data": 60
+    },
+    {
+      "id": 6,
+      "timestamp": "2025-07-29T13:39:42.866065",
+      "penalty": -6,
+      "description": "Very fast tap",
+      "extra_data": 62
+    },
+    {
+      "id": 6,
+      "timestamp": "2025-07-29T13:39:48.883543",
+      "penalty": -6,
+      "description": "Very fast tap",
+      "extra_data": 59
+    }
+  ]
+}

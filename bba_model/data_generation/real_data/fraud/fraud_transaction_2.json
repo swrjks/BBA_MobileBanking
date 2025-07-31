@@ -1,0 +1,533 @@
+{
+  "session": {
+    "start": "2025-07-29T08:09:38.541733",
+    "end": "2025-07-29T08:10:17.830326",
+    "duration_seconds": 39
+  },
+  "device": {
+    "platform": "Android",
+    "brand": "samsung",
+    "model": "SM-G781B",
+    "manufacturer": "samsung",
+    "version": "13",
+    "sdk_int": 33
+  },
+  "location": "Location unavailable",
+  "tap_durations_ms": [
+    1668.0,
+    136.0,
+    957.0,
+    167.0,
+    101.0,
+    425.0,
+    810.0,
+    667.0,
+    2955.0,
+    3931.0,
+    0.0,
+    515.0,
+    19390.0,
+    6187.0,
+    523.0
+  ],
+  "tap_events": [
+    {
+      "timestamp": "2025-07-29T08:09:39.348362",
+      "screen": "HomePage",
+      "position": {
+        "dx": 299.0625,
+        "dy": 714.5833333333334
+      },
+      "zone": "bottom_right"
+    },
+    {
+      "timestamp": "2025-07-29T08:09:41.017254",
+      "screen": "HomePage",
+      "position": {
+        "dx": 256.59375,
+        "dy": 663.125
+      },
+      "zone": "bottom_right"
+    },
+    {
+      "timestamp": "2025-07-29T08:09:41.153959",
+      "screen": "HomePage",
+      "position": {
+        "dx": 265.03125,
+        "dy": 552.0833333333334
+      },
+      "zone": "bottom_right"
+    },
+    {
+      "timestamp": "2025-07-29T08:09:42.111771",
+      "screen": "HomePage",
+      "position": {
+        "dx": 249.0,
+        "dy": 539.5833333333334
+      },
+      "zone": "bottom_center"
+    },
+    {
+      "timestamp": "2025-07-29T08:09:42.279091",
+      "screen": "HomePage",
+      "position": {
+        "dx": 240.28125,
+        "dy": 613.5416666666666
+      },
+      "zone": "bottom_center"
+    },
+    {
+      "timestamp": "2025-07-29T08:09:42.806739",
+      "screen": "HomePage",
+      "position": {
+        "dx": 57.9375,
+        "dy": 595.4166666666666
+      },
+      "zone": "bottom_left"
+    },
+    {
+      "timestamp": "2025-07-29T08:09:43.617578",
+      "screen": "TransferTypePage",
+      "position": {
+        "dx": 328.78125,
+        "dy": 149.58333333333334
+      },
+      "zone": "top_right"
+    },
+    {
+      "timestamp": "2025-07-29T08:09:44.285517",
+      "screen": "WithinBankTransferPage",
+      "position": {
+        "dx": 316.59375,
+        "dy": 125.83333333333333
+      },
+      "zone": "top_right"
+    },
+    {
+      "timestamp": "2025-07-29T08:09:47.241056",
+      "screen": "WithinBankTransferPage",
+      "position": {
+        "dx": 39.5625,
+        "dy": 204.16666666666666
+      },
+      "zone": "top_left"
+    },
+    {
+      "timestamp": "2025-07-29T08:09:51.172184",
+      "screen": "WithinBankTransferPage",
+      "position": {
+        "dx": 131.71875,
+        "dy": 671.875
+      },
+      "zone": "bottom_center"
+    },
+    {
+      "timestamp": "2025-07-29T08:09:51.688410",
+      "screen": "WithinBankTransferPage",
+      "position": {
+        "dx": 46.78125,
+        "dy": 196.04166666666666
+      },
+      "zone": "top_left"
+    },
+    {
+      "timestamp": "2025-07-29T08:10:11.078477",
+      "screen": "WithinBankTransferPage",
+      "position": {
+        "dx": 283.03125,
+        "dy": 368.3333333333333
+      },
+      "zone": "middle_right"
+    },
+    {
+      "timestamp": "2025-07-29T08:10:17.266213",
+      "screen": "HomePage",
+      "position": {
+        "dx": 289.40625,
+        "dy": 329.375
+      },
+      "zone": "middle_right"
+    },
+    {
+      "timestamp": "2025-07-29T08:10:17.789785",
+      "screen": "HomePage",
+      "position": {
+        "dx": 355.03125,
+        "dy": 76.04166666666667
+      },
+      "zone": "top_right"
+    }
+  ],
+  "swipe_events": [
+    {
+      "timestamp": "2025-07-29T08:09:39.637054",
+      "screen": "HomePage",
+      "duration_ms": 288,
+      "distance_px": 208.53973343467894,
+      "speed_px_per_ms": 0.7240962966481908
+    },
+    {
+      "timestamp": "2025-07-29T08:09:39.637258",
+      "duration_ms": 288,
+      "distance_px": 22.78125,
+      "speed_px_per_ms": 0.0791015625
+    },
+    {
+      "timestamp": "2025-07-29T08:09:41.045229",
+      "screen": "HomePage",
+      "duration_ms": 27,
+      "distance_px": 21.237782435503462,
+      "speed_px_per_ms": 0.7865845346482764
+    },
+    {
+      "timestamp": "2025-07-29T08:09:41.045522",
+      "duration_ms": 28,
+      "distance_px": 4.125,
+      "speed_px_per_ms": 0.14732142857142858
+    },
+    {
+      "timestamp": "2025-07-29T08:09:41.361617",
+      "screen": "HomePage",
+      "duration_ms": 207,
+      "distance_px": 117.06438950023401,
+      "speed_px_per_ms": 0.5655284516919518
+    },
+    {
+      "timestamp": "2025-07-29T08:09:41.362125",
+      "duration_ms": 208,
+      "distance_px": 6.65625,
+      "speed_px_per_ms": 0.03200120192307692
+    },
+    {
+      "timestamp": "2025-07-29T08:09:42.194911",
+      "screen": "HomePage",
+      "duration_ms": 83,
+      "distance_px": 50.63367981146541,
+      "speed_px_per_ms": 0.6100443350778966
+    },
+    {
+      "timestamp": "2025-07-29T08:09:42.195056",
+      "duration_ms": 83,
+      "distance_px": 0.9375,
+      "speed_px_per_ms": 0.011295180722891566
+    },
+    {
+      "timestamp": "2025-07-29T08:10:17.313201",
+      "screen": "HomePage",
+      "duration_ms": 46,
+      "distance_px": 91.76369450572639,
+      "speed_px_per_ms": 1.9948629240375302
+    },
+    {
+      "timestamp": "2025-07-29T08:10:17.313331",
+      "duration_ms": 47,
+      "distance_px": 4.21875,
+      "speed_px_per_ms": 0.08976063829787234
+    }
+  ],
+  "screens_visited": [
+    {
+      "screen": "HomePage",
+      "timestamp": "2025-07-29T08:09:38.542278",
+      "tap_events": [
+        {
+          "timestamp": "2025-07-29T08:09:39.348362",
+          "screen": "HomePage",
+          "position": {
+            "dx": 299.0625,
+            "dy": 714.5833333333334
+          },
+          "zone": "bottom_right"
+        },
+        {
+          "timestamp": "2025-07-29T08:09:41.017254",
+          "screen": "HomePage",
+          "position": {
+            "dx": 256.59375,
+            "dy": 663.125
+          },
+          "zone": "bottom_right"
+        },
+        {
+          "timestamp": "2025-07-29T08:09:41.153959",
+          "screen": "HomePage",
+          "position": {
+            "dx": 265.03125,
+            "dy": 552.0833333333334
+          },
+          "zone": "bottom_right"
+        },
+        {
+          "timestamp": "2025-07-29T08:09:42.111771",
+          "screen": "HomePage",
+          "position": {
+            "dx": 249.0,
+            "dy": 539.5833333333334
+          },
+          "zone": "bottom_center"
+        },
+        {
+          "timestamp": "2025-07-29T08:09:42.279091",
+          "screen": "HomePage",
+          "position": {
+            "dx": 240.28125,
+            "dy": 613.5416666666666
+          },
+          "zone": "bottom_center"
+        },
+        {
+          "timestamp": "2025-07-29T08:09:42.806739",
+          "screen": "HomePage",
+          "position": {
+            "dx": 57.9375,
+            "dy": 595.4166666666666
+          },
+          "zone": "bottom_left"
+        }
+      ],
+      "swipe_events": [
+        {
+          "timestamp": "2025-07-29T08:09:39.637054",
+          "screen": "HomePage",
+          "duration_ms": 288,
+          "distance_px": 208.53973343467894,
+          "speed_px_per_ms": 0.7240962966481908
+        },
+        {
+          "timestamp": "2025-07-29T08:09:39.637258",
+          "duration_ms": 288,
+          "distance_px": 22.78125,
+          "speed_px_per_ms": 0.0791015625
+        },
+        {
+          "timestamp": "2025-07-29T08:09:41.045229",
+          "screen": "HomePage",
+          "duration_ms": 27,
+          "distance_px": 21.237782435503462,
+          "speed_px_per_ms": 0.7865845346482764
+        },
+        {
+          "timestamp": "2025-07-29T08:09:41.045522",
+          "duration_ms": 28,
+          "distance_px": 4.125,
+          "speed_px_per_ms": 0.14732142857142858
+        },
+        {
+          "timestamp": "2025-07-29T08:09:41.361617",
+          "screen": "HomePage",
+          "duration_ms": 207,
+          "distance_px": 117.06438950023401,
+          "speed_px_per_ms": 0.5655284516919518
+        },
+        {
+          "timestamp": "2025-07-29T08:09:41.362125",
+          "duration_ms": 208,
+          "distance_px": 6.65625,
+          "speed_px_per_ms": 0.03200120192307692
+        },
+        {
+          "timestamp": "2025-07-29T08:09:42.194911",
+          "screen": "HomePage",
+          "duration_ms": 83,
+          "distance_px": 50.63367981146541,
+          "speed_px_per_ms": 0.6100443350778966
+        },
+        {
+          "timestamp": "2025-07-29T08:09:42.195056",
+          "duration_ms": 83,
+          "distance_px": 0.9375,
+          "speed_px_per_ms": 0.011295180722891566
+        }
+      ]
+    },
+    {
+      "screen": "TransferTypePage",
+      "timestamp": "2025-07-29T08:09:42.892914",
+      "tap_events": [
+        {
+          "timestamp": "2025-07-29T08:09:43.617578",
+          "screen": "TransferTypePage",
+          "position": {
+            "dx": 328.78125,
+            "dy": 149.58333333333334
+          },
+          "zone": "top_right"
+        }
+      ],
+      "swipe_events": [
+        {
+          "timestamp": "2025-07-29T08:09:39.637054",
+          "screen": "HomePage",
+          "duration_ms": 288,
+          "distance_px": 208.53973343467894,
+          "speed_px_per_ms": 0.7240962966481908
+        },
+        {
+          "timestamp": "2025-07-29T08:09:39.637258",
+          "duration_ms": 288,
+          "distance_px": 22.78125,
+          "speed_px_per_ms": 0.0791015625
+        },
+        {
+          "timestamp": "2025-07-29T08:09:41.045229",
+          "screen": "HomePage",
+          "duration_ms": 27,
+          "distance_px": 21.237782435503462,
+          "speed_px_per_ms": 0.7865845346482764
+        },
+        {
+          "timestamp": "2025-07-29T08:09:41.045522",
+          "duration_ms": 28,
+          "distance_px": 4.125,
+          "speed_px_per_ms": 0.14732142857142858
+        },
+        {
+          "timestamp": "2025-07-29T08:09:41.361617",
+          "screen": "HomePage",
+          "duration_ms": 207,
+          "distance_px": 117.06438950023401,
+          "speed_px_per_ms": 0.5655284516919518
+        },
+        {
+          "timestamp": "2025-07-29T08:09:41.362125",
+          "duration_ms": 208,
+          "distance_px": 6.65625,
+          "speed_px_per_ms": 0.03200120192307692
+        },
+        {
+          "timestamp": "2025-07-29T08:09:42.194911",
+          "screen": "HomePage",
+          "duration_ms": 83,
+          "distance_px": 50.63367981146541,
+          "speed_px_per_ms": 0.6100443350778966
+        },
+        {
+          "timestamp": "2025-07-29T08:09:42.195056",
+          "duration_ms": 83,
+          "distance_px": 0.9375,
+          "speed_px_per_ms": 0.011295180722891566
+        }
+      ]
+    },
+    {
+      "screen": "WithinBankTransferPage",
+      "timestamp": "2025-07-29T08:09:43.692904",
+      "tap_events": [
+        {
+          "timestamp": "2025-07-29T08:09:44.285517",
+          "screen": "WithinBankTransferPage",
+          "position": {
+            "dx": 316.59375,
+            "dy": 125.83333333333333
+          },
+          "zone": "top_right"
+        },
+        {
+          "timestamp": "2025-07-29T08:09:47.241056",
+          "screen": "WithinBankTransferPage",
+          "position": {
+            "dx": 39.5625,
+            "dy": 204.16666666666666
+          },
+          "zone": "top_left"
+        },
+        {
+          "timestamp": "2025-07-29T08:09:51.172184",
+          "screen": "WithinBankTransferPage",
+          "position": {
+            "dx": 131.71875,
+            "dy": 671.875
+          },
+          "zone": "bottom_center"
+        },
+        {
+          "timestamp": "2025-07-29T08:09:51.688410",
+          "screen": "WithinBankTransferPage",
+          "position": {
+            "dx": 46.78125,
+            "dy": 196.04166666666666
+          },
+          "zone": "top_left"
+        },
+        {
+          "timestamp": "2025-07-29T08:10:11.078477",
+          "screen": "WithinBankTransferPage",
+          "position": {
+            "dx": 283.03125,
+            "dy": 368.3333333333333
+          },
+          "zone": "middle_right"
+        }
+      ],
+      "swipe_events": [
+        {
+          "timestamp": "2025-07-29T08:09:39.637054",
+          "screen": "HomePage",
+          "duration_ms": 288,
+          "distance_px": 208.53973343467894,
+          "speed_px_per_ms": 0.7240962966481908
+        },
+        {
+          "timestamp": "2025-07-29T08:09:39.637258",
+          "duration_ms": 288,
+          "distance_px": 22.78125,
+          "speed_px_per_ms": 0.0791015625
+        },
+        {
+          "timestamp": "2025-07-29T08:09:41.045229",
+          "screen": "HomePage",
+          "duration_ms": 27,
+          "distance_px": 21.237782435503462,
+          "speed_px_per_ms": 0.7865845346482764
+        },
+        {
+          "timestamp": "2025-07-29T08:09:41.045522",
+          "duration_ms": 28,
+          "distance_px": 4.125,
+          "speed_px_per_ms": 0.14732142857142858
+        },
+        {
+          "timestamp": "2025-07-29T08:09:41.361617",
+          "screen": "HomePage",
+          "duration_ms": 207,
+          "distance_px": 117.06438950023401,
+          "speed_px_per_ms": 0.5655284516919518
+        },
+        {
+          "timestamp": "2025-07-29T08:09:41.362125",
+          "duration_ms": 208,
+          "distance_px": 6.65625,
+          "speed_px_per_ms": 0.03200120192307692
+        },
+        {
+          "timestamp": "2025-07-29T08:09:42.194911",
+          "screen": "HomePage",
+          "duration_ms": 83,
+          "distance_px": 50.63367981146541,
+          "speed_px_per_ms": 0.6100443350778966
+        },
+        {
+          "timestamp": "2025-07-29T08:09:42.195056",
+          "duration_ms": 83,
+          "distance_px": 0.9375,
+          "speed_px_per_ms": 0.011295180722891566
+        }
+      ]
+    }
+  ],
+  "screen_durations": {
+    "HomePage": 4,
+    "TransferTypePage": 33,
+    "WithinBankTransferPage": 66
+  },
+  "screen_recording_detected": false,
+  "session_input": {
+    "within_bank_transfer_amount": "50000",
+    "fd_broken": false,
+    "loan_taken": false,
+    "time_from_login_to_fd": null,
+    "time_from_login_to_loan": null,
+    "time_from_login_to_transaction": 5,
+    "time_for_transaction": 32
+  }
+}
